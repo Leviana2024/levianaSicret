@@ -1,9 +1,10 @@
 # levianaSicret
-AmazonAws Public Key✓
+     AmazonAws Public Key✓
                 -----BEGIN PUBLIC KEY-----
 MFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEk2L3TZCScr1TrqaPMiKrGqwkMB9e+BnT
 fbTZlThYYhJBvyJP1QjtbgvLg1/0xStxBe9WD/LlW6oa0/WcACGuGQ==
                  -----END PUBLIC KEY-----
+
 
 {
   "Id": "key-consolepolicy-3",
@@ -119,6 +120,3 @@ fbTZlThYYhJBvyJP1QjtbgvLg1/0xStxBe9WD/LlW6oa0/WcACGuGQ==
     }
   ]
 }
-
-Feedback
-© 2025,
